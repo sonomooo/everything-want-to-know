@@ -13,3 +13,5 @@ SpringApplication.run()이 실행되면 스프링은 컨테이너를 통해서 �
 빈들을 등록하고 연결시키는 컨테이너의 일종으로는 SpringContext가 존재한다.
 
 후에 컨텍스트가 완성이되면, 서버를 실행한다.
+
+<img width="478" height="764" alt="image" src="https://github.com/user-attachments/assets/3efa358e-ee21-4359-a336-158c9db2fade" />
